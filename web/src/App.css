@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #F5F7FB;
+}
+
+.title {
+    text-align: center;
+}
+
+div.content{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
