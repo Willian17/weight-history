@@ -1,5 +1,5 @@
 
-  <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weight-History</h1>
+  <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weight-History</h1>
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/willian-fernandes/">
@@ -24,14 +24,13 @@
 
 > 
 <p align="center">
-:rocket: Project made to connect teachers to students, made in Next Level Week #2 @Rocketseat
+:rocket: Project to monitor your body weight
 </p>
 
 # :computer: Technologies
 <ul>
   <li>Node.js</li>
   <li>Express.js</li>
-  <li>Typescript</li>
   <li>React</li>
   <li>React Native</li>
   <li>Expo</li>
