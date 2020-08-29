@@ -39,7 +39,7 @@
 
 # Web Screenshot
 <div>
-   <img src="https://user-images.githubusercontent.com/53010824/88211442-191a4200-cc2c-11ea-9450-3d053f121589.png" width="400px">
+   <img src="https://user-images.githubusercontent.com/53010824/88211442-191a4200-cc2c-11ea-9450-3d053f121589.png">
 </div>
 
 # Mobile Screenshot
@@ -51,13 +51,13 @@
 # :construction_worker: How to run
 ```bash
 # Clone Repository
-$ git clone https://github.com/Willian17/proffy-nlw2.git
+$ git clone https://github.com/Willian17/weight-history.git
 ```
 
 ### 📦 Run API
 ```bash
 # Go to server folder
-$ cd proffy-nlw2/server
+$ cd weight-history/server
 
 # Install Dependencies
 $ yarn install 
@@ -75,7 +75,7 @@ Access API at http://localhost:3333
 
 ```bash
 # Go to web folder
-$ cd proffy-nlw2/web
+$ cd weight-history/web
 
 # Install Dependencies
 $ yarn install
@@ -96,7 +96,7 @@ After, fork this repository and clone to your machine. Inside of the project's f
 
 ```bash
 # Go to mobile folder
-$ cd proffy-nlw2/mobile
+$ cd weight-history/mobile
 
 # Install Dependencies
 $ yarn install
