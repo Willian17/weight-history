@@ -1,20 +1,18 @@
 
-  <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspProffy</h1>
+  <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weight-History</h1>
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/willian-fernandes/">
       <img alt="Willian Fernandes" src="https://img.shields.io/badge/-WillianFernandes-8257E5?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Willian17/proffy-nlw2?color=774DD6">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Willian17/weight-history?color=774DD6">
 
   <a aria-label="Completed" href="https://nextlevelweek.com/episodios/omnistack/edicao/2">
-    <img src="https://img.shields.io/badge/Proffy-NLW 2.0-8257E5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
-  </a>
-  <a href="https://github.com/Willian17/proffy-nlw2/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Willian17/proffy-nlw2?color=774DD6">
+  <a href="https://github.com/Willian17/weight-history/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Willian17/weight-history?color=774DD6">
   </a> 
   <a href="https://github.com/Willian17/proffy-nlw2/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/Willian17/proffy-nlw2?color=8257E5&logo=github">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/Willian17/weight-history?color=8257E5&logo=github">
   </a>
 </p>
 
