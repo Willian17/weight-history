@@ -56,8 +56,8 @@ $ git clone https://github.com/Willian17/weight-history.git
 
 ### 📦 Run API
 ```bash
-# Go to server folder
-$ cd weight-history/server
+# Go to backend folder
+$ cd weight-history/backend
 
 # Install Dependencies
 $ yarn install 
