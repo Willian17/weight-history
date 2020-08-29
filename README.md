@@ -3,9 +3,9 @@
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/willian-fernandes/">
-      <img alt="Willian Fernandes" src="https://img.shields.io/badge/-WillianFernandes-8257E5?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Willian Fernandes" src="https://img.shields.io/badge/-WillianFernandes-7650CF?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Willian17/weight-history?color=774DD6">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Willian17/weight-history?color=7650CF">
 
   <a aria-label="Completed" href="https://nextlevelweek.com/episodios/omnistack/edicao/2">
   <a href="https://github.com/Willian17/weight-history/commits/master">
@@ -39,16 +39,12 @@
 
 # Web Screenshot
 <div>
-   <img src="https://raw.githubusercontent.com/RafaelGoulartB/proffy/master/.github/web-landing.png" width="400px">
-   <img src="https://raw.githubusercontent.com/RafaelGoulartB/proffy/master/.github/web-list.png" width="400px">
+   <img src="https://user-images.githubusercontent.com/53010824/88211442-191a4200-cc2c-11ea-9450-3d053f121589.png" width="400px">
 </div>
 
 # Mobile Screenshot
 <div>
-   <img src="https://raw.githubusercontent.com/RafaelGoulartB/proffy/master/.github/mobile-splash.png" width="180">
-   <img src="https://raw.githubusercontent.com/RafaelGoulartB/proffy/master/.github/mobile-onboarding.png" width="180">
-   <img src="https://raw.githubusercontent.com/RafaelGoulartB/proffy/master/.github/mobile-home.png" width="180">
-   <img src="https://raw.githubusercontent.com/RafaelGoulartB/proffy/master/.github/mobile-favoritos.png" width="180">
+   <img src="https://user-images.githubusercontent.com/53010824/88211607-5088ee80-cc2c-11ea-83e9-a0cc0ec48fe2.png" width="180">
 </div>
 
 
