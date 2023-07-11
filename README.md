@@ -1,4 +1,4 @@
-<h1>Weight History</h1>
+<h1 align="center">Weight History</h1>
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/willian-fernandes/">
