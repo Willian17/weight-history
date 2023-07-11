@@ -1,5 +1,4 @@
-
- <p align="center">	<img alt="Weight History" src="https://fontmeme.com/temporary/b24f4e47ea80f0215e7aa46e9d795240.png"</p>
+<h1>Weight History</h1>
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/willian-fernandes/">
